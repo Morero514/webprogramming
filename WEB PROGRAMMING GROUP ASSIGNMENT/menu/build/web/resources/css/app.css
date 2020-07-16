@@ -1,0 +1,87 @@
+
+.Bimage{
+    background-image:url("images/images-1.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.container{
+    background-color: black;
+    width: 25%;
+    padding: 20px;
+    opacity: .9;
+    border-radius: 5px;
+}
+
+.inputBox{
+    margin-top: 50px;
+    padding: 20px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-bottom: 1px solid gray;
+    outline: 0px;
+    margin-left: -10px;
+    left:0;
+    position: relative;
+  
+}
+
+.inputBox:hover{
+     border-bottom: 1px solid orangered;
+}
+
+.Registerbutton
+{
+  margin-top: 50px;
+  padding: 20px;  
+  width: 100%;
+  margin-bottom: 0px;
+  left: 0;
+  right: 0;
+  background-color: transparent;
+  border:1px solid black;
+}
+
+ .Registerbutton:hover
+ {
+    background-color: gray; 
+ }
+ .info{
+    background-color: black;
+    width: 35%;
+    padding: 20px;
+    opacity: .9;
+    border-radius: 5px;
+    color: whitesmoke;
+    margin-left:30%;
+    margin-bottom: 20%;
+    
+}
+
+.water{
+
+    width: 20px;
+    height: 20px;
+    
+}
+.drink{
+ 
+     width: 20px;
+    height: 20px;
+}
+ .flag{
+    background-color: black;
+    width: 25%;
+    padding: 20px;
+    opacity: .9;
+    border-radius: 5px;
+    color: whitesmoke;
+    margin-left:30%;
+    margin-bottom: 20%;
+    
+}
+.Bimag{
+    background-image:url("images/images.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
